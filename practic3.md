@@ -1,0 +1,3 @@
+# практична робота №3
+## алгоритми сортування на мові с++
+![alt](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdtse.dp.ua%2F%25D0%25BA%25D0%25BE%25D0%25BC%25D0%25BF%25D1%258E%25D1%2582%25D0%25B5%25D1%2580%25D0%25BD%25D0%25B0-%25D1%2596%25D0%25B6%25D0%25B5%25D0%25BD%25D0%25B5%25D1%2580%25D1%2596%25D1%258F&psig=AOvVaw3hGc1AEPB5K31iAiVyRHuN&ust=1695968505697000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIi6jJXVzIEDFQAAAAAdAAAAABAD)
